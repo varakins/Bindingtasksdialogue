@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace WpfApphghjhvgnvgyfrte32334466y
 {
@@ -27,7 +28,9 @@ namespace WpfApphghjhvgnvgyfrte32334466y
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if(Name.Text == "Сергей")
+            string d = Name.Text;
+            bool a = d.All(n=>char.IsLetter(n)&&(n>='a'&&n<='z'));
+            if (a)
                 MessageBox.Show("Имя введно правельно", "Хорошо", MessageBoxButton.OK, MessageBoxImage.Information);
             else MessageBox.Show("Имя введено не верно", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
         }

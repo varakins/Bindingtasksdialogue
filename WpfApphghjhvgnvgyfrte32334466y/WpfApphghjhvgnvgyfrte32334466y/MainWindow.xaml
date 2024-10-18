@@ -7,16 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox HorizontalAlignment="Center" Margin="0,81,0,0" TextWrapping="Wrap" Text="Введите своё имя" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Margin="228,139,0,0" TextWrapping="Wrap" Text="Name:" VerticalAlignment="Top" Width="48"/>
-        <TextBlock x:Name="Name" Background="Blue" HorizontalAlignment="Left" Margin="298,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.361,-0.011" Width="276" Height="21">
-            <TextBlock.ContextMenu>
+        <TextBox  x:Name="Name" Background="Yellow" HorizontalAlignment="Center" Margin="0,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238">
+            <TextBox.ContextMenu>
                 <ContextMenu>
                     Введите ваше имя
                 </ContextMenu>
-            </TextBlock.ContextMenu>
+            </TextBox.ContextMenu>
+        </TextBox>
+        <TextBlock HorizontalAlignment="Left" Margin="239,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.361,-0.011" Width="37" Height="18" Text="Nme:">
         </TextBlock>
-        <Button Content="Ввод" HorizontalAlignment="Left" Margin="400,187,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Ввод" HorizontalAlignment="Center" Margin="0,252,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,201,0,0" TextWrapping="Wrap" Text="Введите имя" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
