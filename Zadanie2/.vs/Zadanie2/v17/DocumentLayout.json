@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\serge\\source\\repos\\Zadanie2\\",
+  "WorkspaceRootPath": "C:\\Users\\serge\\Desktop\\Git Varakin\\Zadanie2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{379286DC-D49C-468A-9F26-FB14061E3827}|Zadanie2\\Zadanie2.csproj|c:\\users\\serge\\source\\repos\\zadanie2\\zadanie2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{379286DC-D49C-468A-9F26-FB14061E3827}|Zadanie2\\Zadanie2.csproj|c:\\users\\serge\\desktop\\git varakin\\zadanie2\\zadanie2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{379286DC-D49C-468A-9F26-FB14061E3827}|Zadanie2\\Zadanie2.csproj|solutionrelative:zadanie2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{379286DC-D49C-468A-9F26-FB14061E3827}|Zadanie2\\Zadanie2.csproj|c:\\users\\serge\\source\\repos\\zadanie2\\zadanie2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{379286DC-D49C-468A-9F26-FB14061E3827}|Zadanie2\\Zadanie2.csproj|C:\\Users\\serge\\Desktop\\Git Varakin\\Zadanie2\\zadanie2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{379286DC-D49C-468A-9F26-FB14061E3827}|Zadanie2\\Zadanie2.csproj|solutionrelative:zadanie2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\Zadanie2\\Zadanie2\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\serge\\Desktop\\Git Varakin\\Zadanie2\\Zadanie2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Zadanie2\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\serge\\source\\repos\\Zadanie2\\Zadanie2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\serge\\Desktop\\Git Varakin\\Zadanie2\\Zadanie2\\MainWindow.xaml",
               "RelativeToolTip": "Zadanie2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T07:49:14.854Z",
@@ -60,14 +60,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\Zadanie2\\Zadanie2\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\Desktop\\Git Varakin\\Zadanie2\\Zadanie2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Zadanie2\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\serge\\source\\repos\\Zadanie2\\Zadanie2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\serge\\Desktop\\Git Varakin\\Zadanie2\\Zadanie2\\MainWindow.xaml.cs",
               "RelativeToolTip": "Zadanie2\\MainWindow.xaml.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAuwDMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T07:49:14.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T07:49:14.496Z"
             }
           ]
         },
