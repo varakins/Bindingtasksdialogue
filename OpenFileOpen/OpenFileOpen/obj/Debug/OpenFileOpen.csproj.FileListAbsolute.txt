@@ -1,0 +1,15 @@
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\bin\Debug\OpenFileOpen.exe.config
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\bin\Debug\OpenFileOpen.exe
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\bin\Debug\OpenFileOpen.pdb
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\OpenFileOpen.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\MainWindow.g.cs
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\App.g.cs
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\OpenFileOpen_MarkupCompile.cache
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\OpenFileOpen_MarkupCompile.lref
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\MainWindow.baml
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\OpenFileOpen.g.resources
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\OpenFileOpen.Properties.Resources.resources
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\OpenFileOpen.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\OpenFileOpen.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\OpenFileOpen.exe
+C:\Users\serge\source\repos\OpenFileOpen\OpenFileOpen\obj\Debug\OpenFileOpen.pdb
